@@ -2,7 +2,7 @@
 - 🎓 I'm a Data Science BS/MS student graduating May 2025
 - 👀 I’m interested in machine learning research
 - 🌱 I’m learning new things
-- 💞️ I’m looking to collaborate on interdisciplinary research projects that connect ML to real world problems
+- 💞️ I’m looking to collaborate on interdisciplinary research projects that use ML to solve real world problems
 - 📫 How to reach me: You can reach me at my email okcava@wpi.edu or connect with me on [LinkedIn](https://linkedin.com/in/cavaok).
 - ⚡ Fun fact: I once went dog sledding in Alaska
 
